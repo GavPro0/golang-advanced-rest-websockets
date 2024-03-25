@@ -1,1 +1,1 @@
-# golang-advanced-rest-websockets [6-s]
+# golang-advanced-rest-websockets [main]
